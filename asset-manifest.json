@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/threeddesign/static/css/main.ea98b408.css",
+    "main.js": "/threeddesign/static/js/main.cb62c61f.js",
+    "static/js/787.43ea4c28.chunk.js": "/threeddesign/static/js/787.43ea4c28.chunk.js",
+    "index.html": "/threeddesign/index.html",
+    "main.ea98b408.css.map": "/threeddesign/static/css/main.ea98b408.css.map",
+    "main.cb62c61f.js.map": "/threeddesign/static/js/main.cb62c61f.js.map",
+    "787.43ea4c28.chunk.js.map": "/threeddesign/static/js/787.43ea4c28.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea98b408.css",
+    "static/js/main.cb62c61f.js"
+  ]
+}
